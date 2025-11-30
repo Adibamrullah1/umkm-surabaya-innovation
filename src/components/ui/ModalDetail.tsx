@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import { type UMKM } from '../../data/umkmData';
 
 interface ModalDetailProps {
